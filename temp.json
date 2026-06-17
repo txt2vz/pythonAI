@@ -1,0 +1,5 @@
+{
+    "temperature": 22.5,
+    "unit": "Celsius",
+    "history": [21.0, 22.0, 22.5]
+}
