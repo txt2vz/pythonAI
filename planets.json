@@ -1,0 +1,79 @@
+{
+  "solar_system": {
+    "star": "Sun",
+    "planets": [
+      {
+        "name": "Mercury",
+        "type": "Terrestrial",
+        "distance_from_sun_au": 0.39,
+        "diameter_km": 4879,
+        "orbital_period_earth_days": 88,
+        "moons": 0,
+        "has_rings": false
+      },
+      {
+        "name": "Venus",
+        "type": "Terrestrial",
+        "distance_from_sun_au": 0.72,
+        "diameter_km": 12104,
+        "orbital_period_earth_days": 225,
+        "moons": 0,
+        "has_rings": false
+      },
+      {
+        "name": "Earth",
+        "type": "Terrestrial",
+        "distance_from_sun_au": 1.00,
+        "diameter_km": 12756,
+        "orbital_period_earth_days": 365,
+        "moons": 1,
+        "has_rings": false
+      },
+      {
+        "name": "Mars",
+        "type": "Terrestrial",
+        "distance_from_sun_au": 1.52,
+        "diameter_km": 6792,
+        "orbital_period_earth_days": 687,
+        "moons": 2,
+        "has_rings": false
+      },
+      {
+        "name": "Jupiter",
+        "type": "Gas Giant",
+        "distance_from_sun_au": 5.20,
+        "diameter_km": 142984,
+        "orbital_period_earth_years": 11.86,
+        "moons": 95,
+        "has_rings": true
+      },
+      {
+        "name": "Saturn",
+        "type": "Gas Giant",
+        "distance_from_sun_au": 9.58,
+        "diameter_km": 120536,
+        "orbital_period_earth_years": 29.45,
+        "moons": 146,
+        "has_rings": true
+      },
+      {
+        "name": "Uranus",
+        "type": "Ice Giant",
+        "distance_from_sun_au": 19.22,
+        "diameter_km": 51118,
+        "orbital_period_earth_years": 84.02,
+        "moons": 28,
+        "has_rings": true
+      },
+      {
+        "name": "Neptune",
+        "type": "Ice Giant",
+        "distance_from_sun_au": 30.05,
+        "diameter_km": 49528,
+        "orbital_period_earth_years": 164.79,
+        "moons": 16,
+        "has_rings": true
+      }
+    ]
+  }
+}
